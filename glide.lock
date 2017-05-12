@@ -1,0 +1,14 @@
+hash: 646a5b7a4005d4f9ebf635c1586dac482664f05bb516ae91485a462b217d60c5
+updated: 2017-05-12T20:18:43.11954794+03:00
+imports:
+- name: github.com/joho/godotenv
+  version: 325433c502d409f3c3dc820098fb0cfe38d98dc7
+- name: github.com/Sirupsen/logrus
+  version: 62f94013e5862ca79b0622b72f2442457ed1de31
+- name: github.com/urfave/cli
+  version: 8ba6f23b6e36d03666a14bd9421f5e3efcb59aca
+- name: golang.org/x/sys
+  version: 156c5a2da4a2085250f45d65e24fabe6ed437394
+  subpackages:
+  - unix
+testImports: []

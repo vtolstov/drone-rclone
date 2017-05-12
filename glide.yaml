@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/joho/godotenv
+- package: github.com/urfave/cli
